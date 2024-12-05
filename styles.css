@@ -1,0 +1,36 @@
+.grid {
+  width: 606px;
+  height: 606px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.square {
+  height: 200px;
+  width: 200px;
+  border:solid black 1px;
+
+}
+.mole{
+  background-color:blue;
+}
+
+.div1{
+  display:flex;
+
+}
+.div2{
+  margin-left:50px;
+  display:flex;
+ 
+}
+ 
+button{
+  margin:2px 10px;
+  padding:2px;
+  font-size: 20px;
+}
+#score{
+  margin-left:10px;
+}
